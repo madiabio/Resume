@@ -8,7 +8,6 @@ Bachelor of Electrical Engineering (Honours) / Bachelor of Computer Science | Gr
 - 🌐 [LinkedIn](https://linkedin.com/in/madiabio)
 
 ## Projects
-These are some projects I have enjoyed working on.
 ### Neutral Fault Detection | Python | Feb 2025 (Ongoing)
 - Implementing anomaly detection methods for neutral fault detection based on an internal research paper.  
 - Performed initial feasibility analysis with scikit-learn models.
