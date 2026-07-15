@@ -1,14 +1,21 @@
 #import "@preview/basic-resume:0.2.9": *
 == Education
-
 #edu(
-  institution: "Harvey Mudd College",
-  location: "Claremont, CA",
-  dates: dates-helper(start-date: "Aug 2023", end-date: "May 2027"),
-  degree: "Bachelor's of Science, Computer Science and Mathematics",
+  institution: "Griffith University",
+  location: "Gold Coast, Queensland",
+  dates: dates-helper(start-date: "Mar 2022", end-date: "Nov 2026"),
+  degree: "Bachelor's of Computer Science / Bachelor's of Electrical Engineering (Honours)",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   // consistent: true
 )
-- Cumulative GPA: 4.0\/4.0 | Dean's List, Harvey S. Mudd Merit Scholarship, National Merit Scholarship
-- Relevant Coursework: Data Structures, Program Development, Microprocessors, Abstract Algebra I: Groups and Rings, Linear Algebra, Discrete Mathematics, Multivariable & Single Variable Calculus, Principles and Practice of Comp Sci
+- Cumulative GPA: 6.32/7 
+#edu(
+  institution: "University of Utah",
+  location: "Salt Lake City, Utah, USA",
+  dates: dates-helper(start-date: "Aug 2022", end-date: "Dec 2026"),
+  degree: "International Trimester Exchange",
+
+  // Uncomment the line below if you want edu formatting to be consistent with everything else
+  // consistent: true
+)
