@@ -5,4 +5,4 @@
 - *Machine Learning & Data Science*: Applied Machine Learning, Data Science, h5py, NumPy, Pandas, scikit-learn
 - *LLMOps*: AgentCore, LangChain, LangGraph, LLM orchestration
 - *Embedded & FPGA*: Embedded/Bare Metal C, PCB Design, SystemVerilog
-- *Professional Skills*: Communication, Problem Solving, Teamwork, Technical Writing
+- *Professional Skills*: Communication, Problem Solving, Project Management, Teamwork, Technical Writing
