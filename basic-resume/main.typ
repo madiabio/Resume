@@ -2,22 +2,19 @@
 
 // Put your personal information here, replacing mine
 #let name = "Madi (Madeline) Abio"
-#let location = "Brisbane, QLD"
-#let email = "madelineabio@gmail.com"
-#let github = "github.com/madiabio"
-#let linkedin = "linkedin.com/in/madiabio"
-#let personal-site = "madiab.io"
+// The template renders its contact fields in a fixed order, so the whole row
+// is composed here (in the desired order) and passed through one slot.
+#let contact-links = (
+  link("mailto:madelineabio@gmail.com", "madelineabio@gmail.com"),
+  link("https://madiab.io", "madiab.io"),
+  link("https://github.com/madiabio", "github.com/madiabio"),
+  link("https://linkedin.com/in/madiabio", "linkedin.com/in/madiabio"),
+  link("https://www.youtube.com/@madiabio", "youtube.com/@madiabio"),
+).join("  |  ")
 
 #show: resume.with(
   author: name,
-  // All the lines below are optional.
-  // For example, if you want to to hide your phone number:
-  // feel free to comment those lines out and they will not show.
-  location: location,
-  email: email,
-  github: github,
-  linkedin: linkedin,
-  personal-site: personal-site,
+  location: contact-links,
   accent-color: "#14532d",
   font: "New Computer Modern",
   paper: "us-letter",
