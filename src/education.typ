@@ -3,7 +3,7 @@
 #edu(
   institution: "Griffith University",
   location: "Gold Coast, Queensland",
-  dates: dates-helper(start-date: "Mar 2022", end-date: "Nov 2026"),
+  dates: "Mar 2022 – Nov 2026",
   degree: "Bachelor's of Computer Science / Bachelor's of Electrical Engineering (Honours)",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
