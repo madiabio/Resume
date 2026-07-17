@@ -18,7 +18,7 @@
   github: github,
   linkedin: linkedin,
   personal-site: personal-site,
-  accent-color: "#26428b",
+  accent-color: "#14532d",
   font: "New Computer Modern",
   paper: "us-letter",
   author-position: left,
