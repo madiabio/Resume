@@ -2,18 +2,21 @@
 == Work Experience
 
 #work(
-  title: "Software Engineer",
+  title: "Founding Engineer",
   location: "Gold Coast, QLD",
   company: "VPTech",
   dates: dates-helper(start-date: "Aug 2025", end-date: "Present"),
 )
-- Developing production-grade agentic Retrieval-Augmented Generation (RAG) systems with human-in-the-loop feedback and validation, including Vector Database integration, MCP tool development and interaction/interface design (AWS AgentCore, LangGraph, LangChain).
-- Designing and implementing core full-stack features using React and NestJS, contributing to system design, structural conventions and tooling decisions.
-- Improved development velocity and quality by improving CI/CD pipelines and introducing automated E2E/unit testing (Playwright, Vitest) and code quality (QA) checks (ESLint, CDK-Nag).
-- Oversaw the integration of Jira and Agile project management strategy, optimising for rapid development.
+- Own end-to-end feature delivery across web applications, backend services, AI agents and cloud infrastructure for an AI-native clinical platform.
+- Built the company's first AI agent, a proof-of-concept that validated the product's flagship feature and set the architectural direction for the agent platform.
+- Own code quality and maintainability, building and maintaining automated CI checks covering linting, security scanning, architectural boundaries and design-system consistency.
+- Mentor engineers in code cleanliness and engineering best practices through code review and team-wide standards.
+- Drive technology discovery by scouting and evaluating emerging tools for adoption.
+- Lead sprint planning.
+- Improved developer experience by introducing stacked PRs, on-demand preview environments and observability tooling for debugging agent behaviour.
 
 #work(
-  title: "Grid Technology Intern",
+  title: "Grid Technology Undergraduate Engineer",
   location: "Brisbane, QLD",
   company: "Energy Queensland",
   dates: dates-helper(start-date: "Jan 2025", end-date: "Sept 2025"),
