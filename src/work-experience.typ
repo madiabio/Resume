@@ -7,21 +7,21 @@
   company: "VPTech",
   dates: "Aug 2025 – Present",
 )
-- Own end-to-end feature delivery across web applications, backend services, AI agents and cloud infrastructure for an AI-native clinical platform.
+- Own end-to-end feature delivery across web applications, backend services, AI agents, and cloud infrastructure for an AI-native clinical platform.
 - Built the company's first AI agent, a proof-of-concept that validated the product's flagship feature and set the architectural direction for the agent platform.
-- Own code quality and maintainability, building and maintaining automated CI checks covering linting, security scanning, architectural boundaries and design-system consistency.
+- Own code quality and maintainability, building and maintaining automated CI checks covering linting, security scanning, architectural boundaries, and design-system consistency.
 - Mentor engineers in code cleanliness and engineering best practices through code review and team-wide standards.
 - Drive technology discovery by scouting and evaluating emerging tools for adoption.
 - Lead sprint planning.
-- Improved developer experience by introducing stacked PRs, on-demand preview environments and observability tooling for debugging agent behaviour.
+- Improved developer experience by introducing stacked PRs, on-demand preview environments, and observability tooling for debugging agent behaviour.
 
 #work(
   title: "Grid Technology Undergraduate Engineer",
   location: "Brisbane, QLD",
   company: "Energy Queensland",
-  dates: "Jan 2025 – Sept 2025",
+  dates: "Jan 2025 – Sep 2025",
 )
-- Developed an anomaly detection machine learning model to detect neutral faults targeting deployment across 10,000 smart meters (see: Neutral Fault Detection project).
+- Developed an anomaly detection machine learning model to detect neutral faults targeting deployment across 10,000+ smart meters (see: Neutral Fault Detection project).
 - Streamlined daily operational data analysis by building a solar panel data dashboard in Python/Power BI, reducing manual processing time from 15 minutes to 15 seconds.
 - Managed project delivery using Agile principles, including facilitating weekly sprints.
 - Automated various non-technical workflows.
@@ -32,7 +32,7 @@
   company: "Griffith University",
   dates: "Mar 2024 – Jun 2024",
 )
-- Performed data pre-processing for a machine learning research project by cleaning and structuring large datasets using Pandas (Python), Bash and the HDF5 format.
+- Performed data pre-processing for a machine learning research project by cleaning and structuring large datasets using Pandas (Python), Bash, and the HDF5 format.
 
 #work(
   title: "Cyber Security Platforms Intern",

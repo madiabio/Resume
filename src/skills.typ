@@ -4,5 +4,5 @@
 - *Software Development & Tools*: Agentic Software Development (with Claude Code), AWS, CI/CD, Drizzle, Fastify, Git, Linux, NestJS, Next.js, Object-Oriented Programming, oRPC, PostgreSQL, Prisma, React, Test-Driven Development
 - *Machine Learning & Data Science*: Applied Machine Learning, Data Science, h5py, NumPy, Pandas, scikit-learn
 - *LLMOps*: AgentCore, LangChain, LangGraph, LLM orchestration
-- *Embedded & FPGA*: Embedded/Bare Metal C, PCB Design, SystemVerilog
+- *Embedded & FPGA*: Embedded/Bare-Metal C, PCB Design, SystemVerilog
 - *Professional Skills*: Communication, Problem Solving, Project Management, Teamwork, Technical Writing
