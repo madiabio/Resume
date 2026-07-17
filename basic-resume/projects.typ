@@ -3,7 +3,6 @@
 
 #project(
   name: "Automated First-Order Logic Theorem Prover",
-  url: "github.com/madiabio/automated-first-order-logic-prover",
   dates: "Rust, Apr 2026 – May 2026",
 )
 - Implemented a backward sequent-calculus (LK′) proof search engine for first-order logic in Rust.

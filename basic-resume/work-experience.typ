@@ -25,7 +25,6 @@
 - Streamlined daily operational data analysis by building a solar panel data dashboard in Python/Power BI, reducing manual processing time from 15 minutes to 15 seconds.
 - Managed project delivery using Agile principles, including facilitating weekly sprints.
 - Automated various non-technical workflows.
-- Coordinated two internal networking events for interns and graduates.
 
 #work(
   title: "Undergraduate Research Assistant",
