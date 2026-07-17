@@ -2,43 +2,42 @@
 == Work Experience
 
 #work(
-  title: "Subatomic Shepherd and Caffeine Connoisseur",
-  location: "Atomville, CA",
-  company: "Microscopic Circus, Schrodinger's University",
-  dates: dates-helper(start-date: "May 2024", end-date: "Present"),
+  title: "Software Engineer",
+  location: "Gold Coast, QLD",
+  company: "VPTech",
+  dates: dates-helper(start-date: "Aug 2025", end-date: "Present"),
 )
-- Played God with tiny molecules, making them dance to uncover the secrets of the universe
-- Convinced high-performance computers to work overtime without unions, reducing simulation time by 50%
-- Wowed a room full of nerds with pretty pictures of invisible things and imaginary findings
+- Developing production-grade agentic Retrieval-Augmented Generation (RAG) systems with human-in-the-loop feedback and validation, including Vector Database integration, MCP tool development and interaction/interface design (AWS AgentCore, LangGraph, LangChain).
+- Designing and implementing core full-stack features using React and NestJS, contributing to system design, structural conventions and tooling decisions.
+- Improved development velocity and quality by improving CI/CD pipelines and introducing automated E2E/unit testing (Playwright, Vitest) and code quality (QA) checks (ESLint, CDK-Nag).
+- Oversaw the integration of Jira and Agile project management strategy, optimising for rapid development.
 
 #work(
-  title: "AI Wrangler and Code Ninja",
-  location: "Silicon Mirage, CA",
-  company: "Organic Stupidity Startup",
-  dates: dates-helper(start-date: "Dec 2023", end-date: "Mar 2024"),
+  title: "Grid Technology Intern",
+  location: "Brisbane, QLD",
+  company: "Energy Queensland",
+  dates: dates-helper(start-date: "Jan 2025", end-date: "Sept 2025"),
 )
-- Taught robots to predict when (and how much!)
-  humans will empty their wallets at the doctor's office
-- Developed HIPAA-compliant digital signatures, because doctors' handwriting wasn't illegible enough already
-- Turned spaghetti code into a gourmet dish, making other interns drool with envy
+- Developed an anomaly detection machine learning model to detect neutral faults targeting deployment across 10,000 smart meters (see: Neutral Fault Detection project).
+- Streamlined daily operational data analysis by building a solar panel data dashboard in Python/Power BI, reducing manual processing time from 15 minutes to 15 seconds.
+- Managed project delivery using Agile principles, including facilitating weekly sprints.
+- Automated various non-technical workflows.
+- Coordinated two internal networking events for interns and graduates.
 
 #work(
-  title: "Digital Playground Architect",
-  location: "The Cloud",
-  company: "Pixels & Profit Interactive",
-  dates: dates-helper(start-date: "Jun 2020", end-date: "May 2023"),
+  title: "Undergraduate Research Assistant",
+  location: "Gold Coast, QLD",
+  company: "Griffith University",
+  dates: dates-helper(start-date: "Mar 2024", end-date: "Jun 2024"),
 )
-- Scaled user base from 10 to 2000+, accidentally becoming a small wealthy nation in the process
-- Crafted Bash scripts so clever they occasionally made other engineers weep with joy
-- Automated support responses, reducing human interaction to a level that would make introverts proud
-- Built a documentation site that actually got read, breaking the ancient RTFM curse
+- Performed data pre-processing for a machine learning research project by cleaning and structuring large datasets using Pandas (Python), Bash and the HDF5 format.
 
 #work(
-  title: "Code Conjurer Intern",
-  location: "Silicon Suburb, CA",
-  company: "Bits & Bytes Consulting",
-  dates: dates-helper(start-date: "Jun 2022", end-date: "Aug 2022"),
+  title: "Cyber Security Platforms Intern",
+  location: "Brisbane, QLD",
+  company: "Energy Queensland",
+  dates: dates-helper(start-date: "Nov 2023", end-date: "Feb 2024"),
 )
-- Developed a cross-platform mobile app that turned every user into a potential paparazzi
-- Led a security overhaul, heroically saving the company from the menace of "password123"
-
+- Developed a strong foundation in computer networking through self-directed training and mentorship, covering the OSI model, network protocols, and enterprise network architecture.
+- Resolved ServiceNow tickets by applying network and security protocol knowledge.
+- Gained exposure to enterprise cybersecurity practices, including cloud security, firewall management (Panorama), and Netskope.

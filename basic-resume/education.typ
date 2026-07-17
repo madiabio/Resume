@@ -13,7 +13,7 @@
 #edu(
   institution: "University of Utah",
   location: "Salt Lake City, Utah, USA",
-  dates: dates-helper(start-date: "Aug 2022", end-date: "Dec 2026"),
+  dates: "2024",
   degree: "International Trimester Exchange",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else

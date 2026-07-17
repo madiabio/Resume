@@ -39,6 +39,7 @@
 * #generic-one-by-two(left: "", right: "")
 */
 #include("education.typ")
+#include("awards-scholarships.typ")
 #include("work-experience.typ")
 #include("projects.typ")
 #include("extra-cirriculars.typ")
