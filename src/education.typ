@@ -9,7 +9,7 @@
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   // consistent: true
 )
-- Cumulative GPA: 6.19/7
+- Cumulative GPA: 6.29/7
 #edu(
   institution: "University of Utah",
   location: "Salt Lake City, Utah, USA",
