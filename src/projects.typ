@@ -10,7 +10,7 @@
 - Built a parallelized engine sweep and benchmark generator in Python.
 
 #project(
-  name: "Full-Stack LeetCode Web App",
+  name: "Full-Stack LeetCode Solve Tracker Web App",
   url: "madiab.io",
   dates: "TypeScript, Mar 2026",
 )
