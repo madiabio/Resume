@@ -1,5 +1,8 @@
 # Madi (Madeline) Abio – Resume & Transcript
-- 📄 [Download Resume (PDF)](Resume.pdf)  
-- 📄 [Download Transcript (PDF)](Transcript.pdf)  
+
+- 📄 [Resume (PDF)](./Resume.pdf)
+- 📄 [Transcript (PDF)](./Transcript.pdf)
 - 🌐 [LinkedIn](https://linkedin.com/in/madiabio)
-- 🌐 [Portfolio Website](https://madiab.io)
+- 🌐 [Portfolio](https://madiab.io)
+
+The PDF is rebuilt and pushed here automatically whenever the source changes.
