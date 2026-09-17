@@ -38,7 +38,7 @@
 #include("education.typ")
 #include("awards-scholarships.typ")
 #include("work-experience.typ")
-#include("projects.typ")
+#include("projects/projects.typ")
 #include("extra-cirriculars.typ")
 #include("skills.typ")
 

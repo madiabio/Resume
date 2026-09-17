@@ -8,12 +8,12 @@
   dates: "Aug 2025 – Present",
 )
 - Own end-to-end feature delivery across web applications, backend services, AI agents, and cloud infrastructure for an AI-native clinical platform.
-- Built the company's first AI agent, a proof-of-concept that validated the product's flagship feature and set the architectural direction for the agent platform.
 - Own code quality and maintainability, building and maintaining automated CI checks covering linting, security scanning, architectural boundaries, and design-system consistency.
+- Improved developer experience by introducing stacked PRs, on-demand preview environments, and agent observability tooling.
+- Built the company's first AI agent, a proof-of-concept that validated the product's flagship feature and set the architectural direction for the agent platform.
 - Mentor engineers in code cleanliness and engineering best practices through code review and team-wide standards.
 - Drive technology discovery by scouting and evaluating emerging tools for adoption.
 - Lead sprint planning.
-- Improved developer experience by introducing stacked PRs, on-demand preview environments, and observability tooling for debugging agent behaviour.
 
 #work(
   title: "Grid Technology Undergraduate Engineer",
